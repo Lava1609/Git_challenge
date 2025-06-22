@@ -8,5 +8,6 @@ conflict solved
 module tb_top;
 
    int a,b;
-   b = !a;
+   float c;
+   c = !a + !b;
 endmodule : tb_top
