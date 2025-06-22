@@ -4,3 +4,9 @@ hello
 iam going to create conflict 
 conflict solved
 
+
+module tb_top;
+
+   int a,b;
+   b = !a;
+endmodule : tb_top
