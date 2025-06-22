@@ -9,5 +9,5 @@ module tb_top;
 
    int a,b;
    float c;
-   c = !a + !b;
+   c = !a + &b;
 endmodule : tb_top
