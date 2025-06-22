@@ -1,8 +1,6 @@
 hi
 hello
 
-
-FROM MY_WORKSPACE:
-iam going to create conflict from my_workspace
-
+iam going to create conflict 
+conflict solved
 
