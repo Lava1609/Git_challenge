@@ -11,4 +11,8 @@ module tb_top;
    float c;
    c = !a + &b;
    println("value of c %d",c);
+   println("end")
 endmodule : tb_top
+
+
+
