@@ -10,5 +10,5 @@ module tb_top;
    int a,b;
    float c;
    c = !a + &b;
-   println("value of c %d",c);
+   println("value of c %d and value of a and b - %d,%d",c,a,b);
 endmodule : tb_top
